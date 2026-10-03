@@ -1,14 +1,4 @@
 {
-  "eu.kanade.tachiyomi.extension.all.asmhentai": {
-    "apk": {
-      "name": "tachiyomi-all.asmhentai-v1.6.13.apk",
-      "sha256": "d27e39305c44259357d9b971dbb1e5b407ebd5471ad25bd5fecc470dbd7c0304"
-    },
-    "jar": {
-      "name": "tachiyomi-all.asmhentai-v1.6.13.jar",
-      "sha256": "306856b9774bcaba3c65458d20d86111a85a153502a926a5e095ea005081a516"
-    }
-  },
   "eu.kanade.tachiyomi.extension.all.ehentai": {
     "apk": {
       "name": "tachiyomi-all.ehentai-v1.4.29.apk",
@@ -52,11 +42,11 @@
   "eu.kanade.tachiyomi.extension.en.hentai20": {
     "apk": {
       "name": "tachiyomi-en.hentai20-v1.6.10.apk",
-      "sha256": "9b7b3841dd4ceacec1f4c81f663b314ef377ecb010348be17d7de5801b7dbb78"
+      "sha256": "a034d453b2f9aa7b290915f32ebf732b8a3da4d6b7a4ef44ebee9a1d422ecc5a"
     },
     "jar": {
       "name": "tachiyomi-en.hentai20-v1.6.10.jar",
-      "sha256": "7ac5c31a603b81642a1422a5171fd98c32a2ae4ca3f8987e7064f8ac255266ab"
+      "sha256": "74836ab4d2170937e852979342b2a178361b6a775b6482acb33d7c8544f14ceb"
     }
   },
   "eu.kanade.tachiyomi.extension.en.hentai2read": {
